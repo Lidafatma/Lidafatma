@@ -7,7 +7,7 @@
 ---
 
 ### 💻 About Me
-Hi, I'm a passionate Mathematics Education graduate and private math tutor based in Semarang. I am deeply fascinated by the intersection of education and technology—always eager to design interactive web-based educational games, learning media, and data visualization dashboards to make math fun and accessible.
+Hi, I'm a passionate Mathematics Education graduate and private math tutor based in Semarang. I am deeply fascinated by the intersection of education and technology always eager to design interactive web-based educational games, learning media, and data visualization dashboards to make math fun and accessible.
 
 When I'm not coding or teaching, you can find me exploring 3D modeling with SolidWorks, crafting crochet/amigurumi art, or diving into data science and analytics.
 
