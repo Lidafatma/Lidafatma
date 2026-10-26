@@ -41,7 +41,7 @@ When I'm not coding or teaching, you can find me exploring 3D modeling with Soli
 ### 🛠️ Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,php,java,cpp,vscode,git,github,figma" alt="skills">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,vscode,git,github,figma" alt="skills">
 </p>
 
 ### 📊 GitHub Stats
