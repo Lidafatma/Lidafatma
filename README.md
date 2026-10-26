@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-<img src="images/fatimasayhai-removebg-preview.png" align="left" width="110" alt="Ade Ziyana Say Hai" style="margin-right: 15px; filter: drop-shadow(0px 0px 8px rgba(255, 255, 255, 0.6));">
+<img src="images/fatimasayhai-removebg-preview.png" align="left" width="75" alt="Ade Ziyana Say Hai" style="margin-right: 15px; filter: drop-shadow(0px 0px 8px rgba(255, 255, 255, 0.6));">
 
 Hi, I'm a passionate Mathematics Education graduate and private math tutor based in Semarang. I am deeply fascinated by the intersection of education and technology, always eager to design interactive web-based educational games, learning media, and data visualization dashboards to make math fun and accessible.
 
