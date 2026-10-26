@@ -53,3 +53,10 @@ When I'm not coding or teaching, you can find me exploring 3D modeling with Soli
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lidafatma&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p style="margin: 20px 0;">
+  <img src="images/fatimasayhai-removebg-preview.png" width="50" alt="Say Hai" style="float: left; filter: drop-shadow(0px 0px 6px rgba(255, 255, 255, 0.5));">
+  <img src="images/fatimaimut-removebg-preview.png" width="50" alt="Imut" style="display: block; margin: 0 auto; filter: drop-shadow(0px 0px 6px rgba(255, 255, 255, 0.5));">
+  <img src="images/fatimaformal-removebg-preview.png" width="50" alt="Formal" style="float: right; margin-top: -50px; filter: drop-shadow(0px 0px 6px rgba(255, 255, 255, 0.5));">
+</p>
+<div style="clear: both;"></div>
