@@ -58,5 +58,6 @@ When I'm not coding or teaching, you can find me exploring 3D modeling with Soli
   <img src="images/fatimasayhai-removebg-preview.png" width="50" alt="Say Hai" style="float: left; filter: drop-shadow(0px 0px 6px rgba(255, 255, 255, 0.5));">
   <img src="images/fatimaimut-removebg-preview.png" width="50" alt="Imut" style="display: block; margin: 0 auto; filter: drop-shadow(0px 0px 6px rgba(255, 255, 255, 0.5));">
   <img src="images/fatimaformal-removebg-preview.png" width="50" alt="Formal" style="float: right; margin-top: -50px; filter: drop-shadow(0px 0px 6px rgba(255, 255, 255, 0.5));">
+   <img src="images/kucing-removebg-preview.png" width="35" alt="Formal" style="float: right; margin-top: -50px; filter: drop-shadow(0px 0px 6px rgba(255, 255, 255, 0.5));">
 </p>
 <div style="clear: both;"></div>
