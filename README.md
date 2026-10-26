@@ -6,10 +6,16 @@
 
 ---
 
-### 💻 About Me
-Hi, I'm a passionate Mathematics Education graduate and private math tutor based in Semarang. I am deeply fascinated by the intersection of education and technology always eager to design interactive web-based educational games, learning media, and data visualization dashboards to make math fun and accessible.
+## 💻 About Me
+
+<img src="images/fatimasayhai-removebg-preview.png" align="left" width="110" alt="Ade Ziyana Say Hai" style="margin-right: 15px; filter: drop-shadow(0px 0px 8px rgba(255, 255, 255, 0.6));">
+
+Hi, I'm a passionate Mathematics Education graduate and private math tutor based in Semarang. I am deeply fascinated by the intersection of education and technology, always eager to design interactive web-based educational games, learning media, and data visualization dashboards to make math fun and accessible.
 
 When I'm not coding or teaching, you can find me exploring 3D modeling with SolidWorks, crafting crochet/amigurumi art, or diving into data science and analytics.
+
+<br clear="left"/>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -18,7 +24,6 @@ When I'm not coding or teaching, you can find me exploring 3D modeling with Soli
 * **Design & Tools:** SolidWorks, Visual Studio Code, Git & GitHub
 
 ---
-
 
 ### 📫 Connect with Me
 <p align="left">
