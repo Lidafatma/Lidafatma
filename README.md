@@ -11,6 +11,11 @@ Hi, I'm a passionate Mathematics Education graduate and private math tutor based
 
 When I'm not coding or teaching, you can find me exploring 3D modeling with SolidWorks, crafting crochet/amigurumi art, or diving into data science and analytics.
 
+<p align="center">
+  <img src="images/fatimasayhai-removebg-preview.png" width="30" alt="Say Hai">
+  <img src="images/fatimaformal-removebg-preview.png" width="30" alt="Formal">
+  <img src="images/fatimaimut-removebg-preview.png" width="30" alt="Imut">
+</p>
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -19,11 +24,7 @@ When I'm not coding or teaching, you can find me exploring 3D modeling with Soli
 * **Design & Tools:** SolidWorks, Visual Studio Code, Git & GitHub
 
 ---
-<p align="center">
-  <img src="images/fatimasayhai-removebg-preview.png" width="120" alt="Say Hai">
-  <img src="images/fatimaformal-removebg-preview.png" width="120" alt="Formal">
-  <img src="images/fatimaimut-removebg-preview.png" width="120" alt="Imut">
-</p>
+
 
 ### 📫 Connect with Me
 <p align="left">
