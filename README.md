@@ -1,7 +1,7 @@
 ### 👋 Hello World, I'm Ade Ziyana Walidah Fatma!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lidafatma/Lidafatma/main/images/meng.jpg" width="100%" style="border-radius: 8px;" />
+  <img src="images/meng.jpg" width="100%" style="border-radius: 8px;" />
 </p>
 
 ---
