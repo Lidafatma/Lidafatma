@@ -32,3 +32,19 @@ When I'm not coding or teaching, you can find me exploring 3D modeling with Soli
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+### 🛠️ Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,php,java,cpp,vscode,git,github,figma" alt="skills">
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lidafatma&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lidafatma&layout=compact&theme=radical" alt="Top Languages" />
+</p>
