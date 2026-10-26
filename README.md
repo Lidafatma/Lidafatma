@@ -1,7 +1,7 @@
 ### 👋 Hello World, I'm Ade Ziyana Walidah Fatma!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lidafatma/Lidafatma/main/images/meng.jpg" width="100%" style="border-radius: 8px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=220&section=header&text=Hello%20World!%20I'm%20Ade%20Ziyana&fontSize=35&animation=fadeIn&fontY=38" width="100%" />
 </p>
 
 ---
