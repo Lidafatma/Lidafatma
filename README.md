@@ -44,13 +44,6 @@ When I'm not coding or teaching, you can find me exploring 3D modeling with Soli
   <img src="https://skillicons.dev/icons?i=js,html,css,python,vscode,git,github,figma" alt="skills">
 </p>
 
-<!-- Header Animated Divider / Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<h3 align="center">╭───  (ฅ^•ﻌ•^ฅ) ─── ✿ stats ✿ ─── (ฅ^•ﻌ•^ฅ)  ───╮</h3>
-
 <!-- 1. Activity Graph (Grafik Ungu di Bagian Atas) -->
 <p align="center">
   <a href="https://github.com/lidafatma">
