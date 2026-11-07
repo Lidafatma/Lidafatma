@@ -40,33 +40,29 @@ When I'm not coding or teaching, you can find me exploring 3D modeling with Soli
 
 ### 🛠️ Skills
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,vscode,git,github,figma" alt="skills">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,vscode,git,github,githubactions,linux,figma" alt="skills" />
+</div>
 
-<!-- 1. Activity Graph (Grafik Ungu di Bagian Atas) -->
-<p align="center">
-  <a href="https://github.com/lidafatma">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidafatma&theme=synthwave&bg_color=0d1117&title_color=ff79c6&line_color=bd93f9&point_color=ff79c6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-</p>
+### 📊 GitHub Stats & Activity
 
-<!-- 2. Stats Cards (Kartu Stats & Top Languages Berdampingan) -->
-<p align="center">
-  <a href="https://github.com/lidafatma">
-    <img src="https://github-readme-stats.vercel.app/api?username=lidafatma&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6&border_color=30363d&hide_border=false" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/lidafatma">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidafatma&layout=compact&theme=synthwave&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&border_color=30363d&hide_border=false" width="48%" alt="Top Languages" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lidafatma&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
-<!-- 3. Streak Stats (Kartu Streak 3 Kotak di Bawah) -->
-<p align="center">
-  <a href="https://github.com/lidafatma">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lidafatma&theme=synthwave&background=0D1117&border=30363D&stroke=FF79C6&ring=FF79C6&fire=FF79C6&currStreakNum=FF79C6&sideNums=F8F8F2&sideTitle=F8F8F2" width="97%" alt="Streak Stats" />
-  </a>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lidafatma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lidafatma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lidafatma&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
 
 <!-- 4. Aesthetic Bottom Banner / GIF -->
 <p align="center">
